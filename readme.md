@@ -5,4 +5,5 @@ webex
 firebase login
 firebase init
 firebase deploy
+firebase serve
 ```
