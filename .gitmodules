@@ -1,0 +1,3 @@
+[submodule "modules/web-ex"]
+	path = modules/web-ex
+	url = https://github.com/tomstormland/web-ex.git
