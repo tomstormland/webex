@@ -31,3 +31,4 @@ var $item = $('#template-table-loc');
 $('#import-box').load('modules/web-ex/06_box/box.html');
 $('#import-paper').load('modules/web-ex/07_paper/paper.html');
 $('#import-layout').load('modules/web-ex/08_layout/layout.html');
+$('#import-side-menu-black').load('modules/web-ex/side-menu-black/side-menu-black.html');
